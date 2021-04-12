@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Xing Chen, a college student from Chongqing University.  
+
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=cxcn&theme=vue) 
+
 <!--
 **cxcn/cxcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
