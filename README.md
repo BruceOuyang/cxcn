@@ -3,7 +3,7 @@
 I'm Xing Chen, a college student from Chongqing University.  
 
 <!--
-**cxcn/cxcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nopdan/nopdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxcn&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cxcn&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cxcn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopdan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nopdan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nopdan&theme=github)
