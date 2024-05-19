@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopdan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nopdan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nopdan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruceOuyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BruceOuyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruceOuyang&theme=github)
